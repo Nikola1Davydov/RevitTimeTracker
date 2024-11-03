@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeTracker", "TimeTracker\TimeTracker.csproj", "{ADA552C3-C4BD-4F5D-A4F3-0962960C6A3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug R20|Any CPU = Debug R20|Any CPU
+		Debug R21|Any CPU = Debug R21|Any CPU
+		Debug R22|Any CPU = Debug R22|Any CPU
+		Debug R23|Any CPU = Debug R23|Any CPU
+		Debug R24|Any CPU = Debug R24|Any CPU
+		Debug R25|Any CPU = Debug R25|Any CPU
+		Release R20|Any CPU = Release R20|Any CPU
+		Release R21|Any CPU = Release R21|Any CPU
+		Release R22|Any CPU = Release R22|Any CPU
+		Release R23|Any CPU = Release R23|Any CPU
+		Release R24|Any CPU = Release R24|Any CPU
+		Release R25|Any CPU = Release R25|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADA552C3-C4BD-4F5D-A4F3-0962960C6A3F}.Debug R20|Any CPU.ActiveCfg = Debug R20|Any CPU
+		{ADA552C3-C4BD-4F5D-A4F3-0962960C6A3F}.Debug R20|Any CPU.Build.0 = Debug R20|Any CPU
+		{ADA552C3-C4BD-4F5D-A4F3-0962960C6A3F}.Debug R21|Any CPU.ActiveCfg = Debug R21|Any CPU
+		{ADA552C3-C4BD-4F5D-A4F3-0962960C6A3F}.Debug R21|Any CPU.Build.0 = Debug R21|Any CPU
+		{ADA552C3-C4BD-4F5D-A4F3-0962960C6A3F}.Debug R22|Any CPU.ActiveCfg = Debug R22|Any CPU
+		{ADA552C3-C4BD-4F5D-A4F3-0962960C6A3F}.Debug R22|Any CPU.Build.0 = Debug R22|Any CPU
+		{ADA552C3-C4BD-4F5D-A4F3-0962960C6A3F}.Debug R23|Any CPU.ActiveCfg = Debug R23|Any CPU
+		{ADA552C3-C4BD-4F5D-A4F3-0962960C6A3F}.Debug R23|Any CPU.Build.0 = Debug R23|Any CPU
+		{ADA552C3-C4BD-4F5D-A4F3-0962960C6A3F}.Debug R24|Any CPU.ActiveCfg = Debug R24|Any CPU
+		{ADA552C3-C4BD-4F5D-A4F3-0962960C6A3F}.Debug R24|Any CPU.Build.0 = Debug R24|Any CPU
+		{ADA552C3-C4BD-4F5D-A4F3-0962960C6A3F}.Debug R25|Any CPU.ActiveCfg = Debug R25|Any CPU
+		{ADA552C3-C4BD-4F5D-A4F3-0962960C6A3F}.Debug R25|Any CPU.Build.0 = Debug R25|Any CPU
+		{ADA552C3-C4BD-4F5D-A4F3-0962960C6A3F}.Release R20|Any CPU.ActiveCfg = Release R20|Any CPU
+		{ADA552C3-C4BD-4F5D-A4F3-0962960C6A3F}.Release R20|Any CPU.Build.0 = Release R20|Any CPU
+		{ADA552C3-C4BD-4F5D-A4F3-0962960C6A3F}.Release R21|Any CPU.ActiveCfg = Release R21|Any CPU
+		{ADA552C3-C4BD-4F5D-A4F3-0962960C6A3F}.Release R21|Any CPU.Build.0 = Release R21|Any CPU
+		{ADA552C3-C4BD-4F5D-A4F3-0962960C6A3F}.Release R22|Any CPU.ActiveCfg = Release R22|Any CPU
+		{ADA552C3-C4BD-4F5D-A4F3-0962960C6A3F}.Release R22|Any CPU.Build.0 = Release R22|Any CPU
+		{ADA552C3-C4BD-4F5D-A4F3-0962960C6A3F}.Release R23|Any CPU.ActiveCfg = Release R23|Any CPU
+		{ADA552C3-C4BD-4F5D-A4F3-0962960C6A3F}.Release R23|Any CPU.Build.0 = Release R23|Any CPU
+		{ADA552C3-C4BD-4F5D-A4F3-0962960C6A3F}.Release R24|Any CPU.ActiveCfg = Release R24|Any CPU
+		{ADA552C3-C4BD-4F5D-A4F3-0962960C6A3F}.Release R24|Any CPU.Build.0 = Release R24|Any CPU
+		{ADA552C3-C4BD-4F5D-A4F3-0962960C6A3F}.Release R25|Any CPU.ActiveCfg = Release R25|Any CPU
+		{ADA552C3-C4BD-4F5D-A4F3-0962960C6A3F}.Release R25|Any CPU.Build.0 = Release R25|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A67BD001-5AA9-458B-B6A2-E5B5A2FE5384}
+	EndGlobalSection
+EndGlobal

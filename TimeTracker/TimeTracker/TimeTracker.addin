@@ -1,0 +1,11 @@
+﻿<RevitAddIns>
+    <AddIn Type="Application">
+        <Name>TimeTracker</Name>
+        <Assembly>TimeTracker/TimeTracker.dll</Assembly>
+        <AddInId>7D9B49D9-CE7E-4827-A084-4B97C40DC5D8</AddInId>
+        <FullClassName>TimeTracker.Application</FullClassName>
+        <VendorId>Development</VendorId>
+        <VendorDescription></VendorDescription>
+        <VendorEmail></VendorEmail>
+    </AddIn>
+</RevitAddIns>
